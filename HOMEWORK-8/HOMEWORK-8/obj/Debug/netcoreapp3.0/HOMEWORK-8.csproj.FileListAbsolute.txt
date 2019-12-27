@@ -1,0 +1,11 @@
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.exe
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.deps.json
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.runtimeconfig.json
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.runtimeconfig.dev.json
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.dll
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\bin\Debug\netcoreapp3.0\HOMEWORK-8.pdb
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\obj\Debug\netcoreapp3.0\HOMEWORK-8.csprojAssemblyReference.cache
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\obj\Debug\netcoreapp3.0\HOMEWORK-8.AssemblyInfoInputs.cache
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\obj\Debug\netcoreapp3.0\HOMEWORK-8.AssemblyInfo.cs
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\obj\Debug\netcoreapp3.0\HOMEWORK-8.dll
+D:\Sasha c#\HOMEWORK-8\HOMEWORK-8\obj\Debug\netcoreapp3.0\HOMEWORK-8.pdb

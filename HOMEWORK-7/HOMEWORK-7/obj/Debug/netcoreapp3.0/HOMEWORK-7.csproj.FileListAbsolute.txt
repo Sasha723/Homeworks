@@ -1,0 +1,11 @@
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.exe
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.deps.json
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.runtimeconfig.json
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.runtimeconfig.dev.json
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.dll
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\bin\Debug\netcoreapp3.0\HOMEWORK-7.pdb
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\obj\Debug\netcoreapp3.0\HOMEWORK-7.csprojAssemblyReference.cache
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\obj\Debug\netcoreapp3.0\HOMEWORK-7.AssemblyInfoInputs.cache
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\obj\Debug\netcoreapp3.0\HOMEWORK-7.AssemblyInfo.cs
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\obj\Debug\netcoreapp3.0\HOMEWORK-7.dll
+D:\Sasha c#\HOMEWORK-7\HOMEWORK-7\obj\Debug\netcoreapp3.0\HOMEWORK-7.pdb

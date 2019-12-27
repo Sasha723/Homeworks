@@ -1,0 +1,11 @@
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.exe
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.deps.json
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.runtimeconfig.json
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.runtimeconfig.dev.json
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.dll
+C:\Users\Антон\source\repos\HOMEWORK-3\bin\Debug\netcoreapp3.0\HOMEWORK-3.pdb
+C:\Users\Антон\source\repos\HOMEWORK-3\obj\Debug\netcoreapp3.0\HOMEWORK-3.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\HOMEWORK-3\obj\Debug\netcoreapp3.0\HOMEWORK-3.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\HOMEWORK-3\obj\Debug\netcoreapp3.0\HOMEWORK-3.AssemblyInfo.cs
+C:\Users\Антон\source\repos\HOMEWORK-3\obj\Debug\netcoreapp3.0\HOMEWORK-3.dll
+C:\Users\Антон\source\repos\HOMEWORK-3\obj\Debug\netcoreapp3.0\HOMEWORK-3.pdb

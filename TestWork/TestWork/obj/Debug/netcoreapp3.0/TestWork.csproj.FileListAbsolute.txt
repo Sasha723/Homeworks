@@ -1,0 +1,11 @@
+D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.csprojAssemblyReference.cache
+D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.AssemblyInfoInputs.cache
+D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.AssemblyInfo.cs
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.exe
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.deps.json
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.runtimeconfig.json
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.runtimeconfig.dev.json
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.dll
+D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.pdb
+D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.dll
+D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.pdb

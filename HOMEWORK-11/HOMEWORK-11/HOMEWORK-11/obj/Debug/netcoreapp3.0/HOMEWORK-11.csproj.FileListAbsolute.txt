@@ -1,0 +1,11 @@
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.exe
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.deps.json
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.runtimeconfig.json
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.runtimeconfig.dev.json
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.dll
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\bin\Debug\netcoreapp3.0\HOMEWORK-11.pdb
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\obj\Debug\netcoreapp3.0\HOMEWORK-11.csprojAssemblyReference.cache
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\obj\Debug\netcoreapp3.0\HOMEWORK-11.AssemblyInfoInputs.cache
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\obj\Debug\netcoreapp3.0\HOMEWORK-11.AssemblyInfo.cs
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\obj\Debug\netcoreapp3.0\HOMEWORK-11.dll
+F:\Sasha c#\HOMEWORK-11\HOMEWORK-11\HOMEWORK-11\obj\Debug\netcoreapp3.0\HOMEWORK-11.pdb

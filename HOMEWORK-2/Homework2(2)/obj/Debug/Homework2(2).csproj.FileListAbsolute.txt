@@ -1,0 +1,14 @@
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2).csprojAssemblyReference.cache
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\MainWindow.g.cs
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\App.g.cs
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2)_MarkupCompile.cache
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2)_MarkupCompile.lref
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\bin\Debug\Homework2(2).exe.config
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\bin\Debug\Homework2(2).exe
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\bin\Debug\Homework2(2).pdb
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\MainWindow.baml
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2).g.resources
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2_2_.Properties.Resources.resources
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2).csproj.GenerateResource.cache
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2).exe
+D:\Sasha c#\HOMEWORK-2\Homework2(2)\obj\Debug\Homework2(2).pdb

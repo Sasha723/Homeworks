@@ -1,0 +1,47 @@
+﻿using System;
+
+namespace HOMEWORK_10
+{
+    class Rectangle
+    {
+        private double side1;
+        private double side2;
+        public double Area 
+        { 
+            get 
+            {
+                return AreaCalculator();
+            } 
+        }
+        public double Perimeter
+        {
+            get
+            {
+                return PerimeterCalculator();
+            }
+        }
+        public Rectangle() { }
+        public Rectangle(double side1, double side2)
+        {
+            this.side1 = side1;
+            this.side2 = side2;
+        }
+        public double AreaCalculator()
+        {
+            return side1 * side2;
+        }
+        public double PerimeterCalculator()
+        {
+            return 2 * (side1 + side2);
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Rectangle rectangle = new Rectangle(double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()));
+            Console.WriteLine(rectangle.Perimeter);
+            Console.WriteLine(rectangle.Area);
+        }
+    }
+}
