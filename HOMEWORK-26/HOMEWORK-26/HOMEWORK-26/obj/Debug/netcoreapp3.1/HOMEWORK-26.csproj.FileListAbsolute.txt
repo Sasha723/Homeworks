@@ -1,0 +1,11 @@
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.exe
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.deps.json
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.runtimeconfig.json
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.runtimeconfig.dev.json
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.dll
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\bin\Debug\netcoreapp3.1\HOMEWORK-26.pdb
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\obj\Debug\netcoreapp3.1\HOMEWORK-26.csprojAssemblyReference.cache
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\obj\Debug\netcoreapp3.1\HOMEWORK-26.AssemblyInfoInputs.cache
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\obj\Debug\netcoreapp3.1\HOMEWORK-26.AssemblyInfo.cs
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\obj\Debug\netcoreapp3.1\HOMEWORK-26.dll
+F:\Sasha c#\Homeworks\HOMEWORK-26\HOMEWORK-26\HOMEWORK-26\obj\Debug\netcoreapp3.1\HOMEWORK-26.pdb
