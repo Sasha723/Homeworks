@@ -9,3 +9,14 @@ D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.dll
 D:\Sasha c#\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.pdb
 D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.dll
 D:\Sasha c#\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.exe
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.deps.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.runtimeconfig.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.runtimeconfig.dev.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\bin\Debug\netcoreapp3.0\TestWork.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.csprojAssemblyReference.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.AssemblyInfoInputs.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.AssemblyInfo.cs
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\TestWork\TestWork\obj\Debug\netcoreapp3.0\TestWork.pdb

@@ -1,0 +1,30 @@
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.exe
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.deps.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.runtimeconfig.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.runtimeconfig.dev.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.csprojAssemblyReference.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.AssemblyInfoInputs.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.AssemblyInfo.cs
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.csproj.CopyComplete
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.exe
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.deps.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.runtimeconfig.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.runtimeconfig.dev.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBook_Console.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\bin\Debug\netcoreapp3.1\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.csprojAssemblyReference.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.AssemblyInfoInputs.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.AssemblyInfo.cs
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.csproj.CopyComplete
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\PhoneBook_Console\obj\Debug\netcoreapp3.1\PhoneBook_Console.pdb

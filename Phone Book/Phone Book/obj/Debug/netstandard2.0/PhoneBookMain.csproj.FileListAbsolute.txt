@@ -1,0 +1,17 @@
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.csprojAssemblyReference.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.AssemblyInfoInputs.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.AssemblyInfo.cs
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.deps.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\hillel-cs-kids\Kondrachuk Alexander\HOMEWORKS\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.deps.json
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\bin\Debug\netstandard2.0\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.csprojAssemblyReference.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.AssemblyInfoInputs.cache
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.AssemblyInfo.cs
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.dll
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\obj\Debug\netstandard2.0\PhoneBookMain.pdb
+C:\Users\qalli_000\Desktop\!Саша програмирование\c#\Homeworks\Phone Book\Phone Book\bin\Debug\netstandard2.0\NLog.config
